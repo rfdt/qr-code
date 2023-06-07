@@ -1,11 +1,9 @@
-t=2023-06-07T11:26:06+0000 lvl=info msg="no configuration paths supplied"
-t=2023-06-07T11:26:06+0000 lvl=info msg="using configuration at default config path" path=/home/ruslan-fedko/.config/ngrok/ngrok.yml
-t=2023-06-07T11:26:06+0000 lvl=info msg="open config file" path=/home/ruslan-fedko/.config/ngrok/ngrok.yml err=nil
-t=2023-06-07T11:26:06+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
-t=2023-06-07T11:26:07+0000 lvl=info msg="client session established" obj=tunnels.session obj=csess id=f5bb4e4a0d40
-t=2023-06-07T11:26:07+0000 lvl=info msg="tunnel session started" obj=tunnels.session
-t=2023-06-07T11:26:07+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://a2a6-77-123-230-75.ngrok-free.app
-t=2023-06-07T11:26:49+0000 lvl=info msg="join connections" obj=join id=7c1492ee0790 l=127.0.0.1:8080 r=77.123.230.75:64826
-t=2023-06-07T11:26:51+0000 lvl=info msg="join connections" obj=join id=7b92b5240274 l=127.0.0.1:8080 r=77.123.230.75:64826
-t=2023-06-07T11:28:26+0000 lvl=info msg="join connections" obj=join id=d1c1fee6f1b4 l=127.0.0.1:8080 r=140.82.115.250:34367
-t=2023-06-07T11:30:07+0000 lvl=info msg="join connections" obj=join id=82c3d265bf67 l=127.0.0.1:8080 r=140.82.115.57:40511
+t=2023-06-07T12:06:44+0000 lvl=info msg="no configuration paths supplied"
+t=2023-06-07T12:06:44+0000 lvl=info msg="using configuration at default config path" path=/home/ruslan-fedko/.config/ngrok/ngrok.yml
+t=2023-06-07T12:06:44+0000 lvl=info msg="open config file" path=/home/ruslan-fedko/.config/ngrok/ngrok.yml err=nil
+t=2023-06-07T12:06:44+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-06-07T12:06:45+0000 lvl=info msg="client session established" obj=tunnels.session obj=csess id=f835c7efc8b9
+t=2023-06-07T12:06:45+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-06-07T12:06:45+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://f590-77-123-230-75.ngrok-free.app
+t=2023-06-07T12:07:12+0000 lvl=info msg="join connections" obj=join id=503b4e0f98d6 l=127.0.0.1:8080 r=143.244.46.69:35672
+t=2023-06-07T12:07:13+0000 lvl=info msg="join connections" obj=join id=a02c3b91f62c l=127.0.0.1:8080 r=143.244.46.69:35672
