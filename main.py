@@ -9,14 +9,14 @@ app = Flask(__name__)
 @app.route("/")
 def root():
    return '''<form action="/qr" method="GET">
-      <input type="text" name="msg" placeholder="Enter text"/>
+      <input type="text" name="msgs" placeholder="Enter text"/>
       <input type="submit" value="QR-code"/>
    </form>'''
 
 
 @app.route("/qr")
 def qr():
-   msg = request.args.get('msg')
+   msg = request.args.get('msgs')
    img = qrcode.make(msg)
    
    buffer = BytesIO()

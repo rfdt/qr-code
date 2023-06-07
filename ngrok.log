@@ -7,3 +7,4 @@ t=2023-06-07T12:06:45+0000 lvl=info msg="tunnel session started" obj=tunnels.ses
 t=2023-06-07T12:06:45+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://f590-77-123-230-75.ngrok-free.app
 t=2023-06-07T12:07:12+0000 lvl=info msg="join connections" obj=join id=503b4e0f98d6 l=127.0.0.1:8080 r=143.244.46.69:35672
 t=2023-06-07T12:07:13+0000 lvl=info msg="join connections" obj=join id=a02c3b91f62c l=127.0.0.1:8080 r=143.244.46.69:35672
+t=2023-06-07T12:08:33+0000 lvl=info msg="join connections" obj=join id=de314660e1ec l=127.0.0.1:8080 r=140.82.115.109:31473
